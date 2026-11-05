@@ -2,13 +2,16 @@
 
 ## Sobre mim
 
-Desenvolvedor full stack e estudante de **Engenharia de Computação** na **Universidade Federal do Ceará (UFC)**, campus Sobral. Desenvolvo aplicações web e mobile de ponta a ponta: do banco de dados e das APIs REST até a interface.
+Desenvolvedor full stack na **RF Group** e estudante de **Engenharia de Computação** na **Universidade Federal do Ceará (UFC)**, campus Sobral. Desenvolvo aplicações web e mobile de ponta a ponta: do banco de dados e das APIs REST até a interface.
 
-Faço parte da [Loading Júnior](https://loadingjr.com.br/), empresa júnior da UFC, e tenho experiência com manutenção e evolução de sistemas internos, bancos de dados relacionais e integração de serviços.
+**Experiência**
 
-- **Foco atual:** TypeScript, React, Next.js, Node.js e React Native
-- **Interesses:** web, mobile, back-end, banco de dados e infraestrutura
-- **Localização:** Sobral, Ceará — Brasil
+- **RF Group** · Desenvolvedor — crio e mantenho os sistemas internos da empresa e desenvolvo automações com bots para os processos do dia a dia, integrando serviços e bancos de dados.
+- **[Loading Júnior](https://loadingjr.com.br/)** · Empresa júnior da UFC — sites para clientes e projetos da própria empresa, como o site institucional e a landing page do Urna Loading.
+
+**Foco atual:** TypeScript, React, Next.js, Node.js e React Native<br />
+**Interesses:** web, mobile, back-end, banco de dados, infraestrutura e automação<br />
+**Localização:** Sobral, Ceará — Brasil
 
 ## Tecnologias
 
